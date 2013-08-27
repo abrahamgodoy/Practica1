@@ -1,0 +1,1 @@
+Sirve para crear reglas para que al momento de hacer un add no tome o siga estas reglas para que ignore este tipo de archivos o lineas en los archivos
